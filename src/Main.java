@@ -3,6 +3,7 @@ import java.math.MathContext;
 public class Main {
     public static void main(String[] args) {
 
+
         //// Домашние задания "Условный оператор ч.1" - от 1 до 6 ////
 
         homeWork1(9);
